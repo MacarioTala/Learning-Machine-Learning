@@ -1,0 +1,7 @@
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\bin\Debug\IrisClassifier.exe.config
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\bin\Debug\IrisClassifier.exe
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\bin\Debug\IrisClassifier.pdb
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\bin\Debug\encog-core-cs.dll
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\obj\Debug\IrisClassifier.csprojResolveAssemblyReference.cache
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\obj\Debug\IrisClassifier.exe
+C:\programming\Machine Learning\MyFirstSkynet\IrisClassifier\obj\Debug\IrisClassifier.pdb

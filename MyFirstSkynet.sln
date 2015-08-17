@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstSkynet", "MyFirstSkynet\MyFirstSkynet.csproj", "{458A1BCF-7EDC-4EAA-B06B-3F12132618E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisClassifier", "IrisClassifier\IrisClassifier.csproj", "{D5371B30-E5A9-4808-80F4-46BF35C5F549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458A1BCF-7EDC-4EAA-B06B-3F12132618E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458A1BCF-7EDC-4EAA-B06B-3F12132618E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458A1BCF-7EDC-4EAA-B06B-3F12132618E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458A1BCF-7EDC-4EAA-B06B-3F12132618E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5371B30-E5A9-4808-80F4-46BF35C5F549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5371B30-E5A9-4808-80F4-46BF35C5F549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5371B30-E5A9-4808-80F4-46BF35C5F549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5371B30-E5A9-4808-80F4-46BF35C5F549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

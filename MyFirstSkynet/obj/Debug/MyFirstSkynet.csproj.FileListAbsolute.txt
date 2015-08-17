@@ -1,0 +1,7 @@
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\bin\Debug\MyFirstSkynet.exe.config
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\bin\Debug\MyFirstSkynet.exe
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\bin\Debug\MyFirstSkynet.pdb
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\bin\Debug\encog-core-cs.dll
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\obj\Debug\MyFirstSkynet.csprojResolveAssemblyReference.cache
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\obj\Debug\MyFirstSkynet.exe
+C:\programming\Machine Learning\MyFirstSkynet\MyFirstSkynet\obj\Debug\MyFirstSkynet.pdb
